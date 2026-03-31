@@ -7,8 +7,9 @@ This can be proved by doing the things against the permitted action.
 Such as for proving authentication I have shared the image which shows that when trying to gain access of the studentconnect 
 I am getting asked for my login credentials
 
-![This image is for proving authentication being asked](Authentication.png)
-
+![This image is for proving authentication being asked]<p align="center">
+  <img src="Authentication.png" width="400">
+</p>
 WHen I entered the system in LMS after entering my credentials it diverted me to the students section which appears as in the image which is different from the staff view point.
 
 ![Authorization given](Authorization.png)
