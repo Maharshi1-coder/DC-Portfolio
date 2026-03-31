@@ -7,17 +7,23 @@ This can be proved by doing the things against the permitted action.
 Such as for proving authentication I have shared the image which shows that when trying to gain access of the studentconnect 
 I am getting asked for my login credentials
 
-![This image is for proving authentication being asked]<p align="center">
+This image is for proving authentication being asked<p align="center">
   <img src="Authentication.png" width="400">
 </p>
+
 WHen I entered the system in LMS after entering my credentials it diverted me to the students section which appears as in the image which is different from the staff view point.
 
-![Authorization given](Authorization.png)
+This image is for the given authorization<p align="center">
+  <img src="Authorization.png" width="400">
+</p>
+
 
 For better understanding the work of firewall I visited the website which contains comic manghas using university's wi-fi
 and it showed me the outcome showed in the image below.
 
-![Firewall protection](Firewall.png)
+This image is for proving the firewall protection<p align="center">
+  <img src="Firewall.png" width="400">
+</p>
 
 
 **A2**
