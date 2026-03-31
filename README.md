@@ -20,6 +20,7 @@ and it showed me the outcome showed in the image below.
 
 
 **A2**
+   In public spaces the traffic monitoring and threat detection used has proven a great stability in the safety of public. It is proved that it was really essential as per the jounal from science direct published on October 2024 https://www.sciencedirect.com/org/science/article/pii/S1546221824007240?
    
 
 
