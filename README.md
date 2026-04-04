@@ -96,4 +96,5 @@ This image is for showing wi-fi protection
    To show how Tor browsing or anonymous browsing helps keep privacy safe, I am providing the research paper which shows how safe browsing using different tools and hiding technology like icognito mode helps keep our privacy
    chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.heinz.cmu.edu/~acquisti/papers/Acquisti_Increasing_Adoption_Tor_Browser_Using_Info_Planning_Nudges.pdf?
 
+   Thesis by Alla Sedneva shows how ToR and VPN are used for keeping the online privacy VPNandTor(A9).pdf
    
