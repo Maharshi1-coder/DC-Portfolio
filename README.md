@@ -32,7 +32,7 @@ This image is for proving the firewall protection<p align="center">
 </p>
 
 Surveillance cameras are implanted at public places for the safety and monitoring activities is showed by the photo below<p align="center">
-  <img src="Cameras(A2).png" width="400">
+  <img src="Cameras(A2).jpeg" width="400">
 </p>
 
 Alarms such as fire or any emergency at public place is shown in the picture below<p align="center">
