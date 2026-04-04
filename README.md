@@ -117,27 +117,27 @@ Access control is like a lock which we can open in its respective way. The pictu
 
 ## A11
    To show five unique access control devices, below are there pictures.
-
+   **1**
    <p align="center">
   <img src="Fingerprint(A11).png" width="400">
 </p>
 
-
+   **2**
 <p align="center">
   <img src="Facialrecognition(A11).png" width="400">
 </p>
 
-
+   **3**
 <p align="center">
   <img src="Pincode(A11).png" width="400">
 </p>
 
-
+   **4**
 <p align="center">
   <img src="Phoneaccess(A11).png" width="400">
 </p>
 
-
+   **5**
 <p align="center">
-  <img src="Accesscontrol(A11).png" width="400">
+  <img src="Cardreader(A11).png" width="400">
 </p>
