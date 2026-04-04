@@ -90,3 +90,10 @@ This image is for showing wi-fi protection
 
    Also, to add on the back support the below link shows an academic survey on lightweighted cryptography used on IoT devices using key exchange and AES.
    chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://pdfs.semanticscholar.org/cfe4/966fd2982a43c7ad0a77d5a393787f1a8b92.pdf?
+
+
+## A9
+   To show how Tor browsing or anonymous browsing helps keep privacy safe, I am providing the research paper which shows how safe browsing using different tools and hiding technology like icognito mode helps keep our privacy
+   chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.heinz.cmu.edu/~acquisti/papers/Acquisti_Increasing_Adoption_Tor_Browser_Using_Info_Planning_Nudges.pdf?
+
+   
