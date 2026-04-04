@@ -97,4 +97,23 @@ This image is for showing wi-fi protection
    chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.heinz.cmu.edu/~acquisti/papers/Acquisti_Increasing_Adoption_Tor_Browser_Using_Info_Planning_Nudges.pdf?
 
    Thesis by Alla Sedneva shows how ToR and VPN are used for keeping the online privacy [This the thesis pdf](VPNandTor(A9).pdf)
+
+
+## A10
+   To show how for offline privacy protection on screen the below picture is very useful as it shows half of the screen covered with the privacy frame and other half without it.
+   <p align="center">
+  <img src="Privacyprotection(A10).png" width="400">
+</p>
+
+
+To show how anonymization is I have grabbed a random medical journal from onesearch, in there it shows the data of people by saying 14-36 months and not the accurate figure.This is called anynomization
+A Randomized Trial of the Accuracy of Novel Telehealth Instruments for the Assessment of Autism in Toddlers. (2024). Journal of Autism and Developmental Disorders, 54(6), 2069-2080. https://doi.org/10.1007/s10803-023-05908-9
+
+Access control is like a lock which we can open in its respective way. The picture below shows one of such access control device.
+<p align="center">
+  <img src="Accesscontrol(A10).png" width="400">
+</p>
+
+
+## A11
    
