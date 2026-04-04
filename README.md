@@ -40,5 +40,22 @@ Alarms such as fire or any emergency at public place is shown in the picture bel
 </p>
 
 
+## A3
+   The photos of the security concepts used in my house is in the photos below
+
+   <p align="center">
+  <img src="Alarms(A3).png" width="400">
+</p>
+
+<p align="center">
+  <img src="DoorLock(A3).png" width="400">
+</p>
+
+<p align="center">
+  <img src="Wi-Fiprotection.png" width="400">
+</p>
+
+
+
 
 
