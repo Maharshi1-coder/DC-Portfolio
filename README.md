@@ -85,4 +85,8 @@ This image is for showing wi-fi protection
       https://cacr.uwaterloo.ca/hac/
 
 ## A8
-   
+   To prove that AES and hashing algorithms are being used in IoT devices as cryptography, below is the link to the pdf of the academic journal published on April 2024.
+   chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.mecs-press.org/ijcnis/ijcnis-v16-n2/IJCNIS-V16-N2-4.pdf?
+
+   Also, to add on the back support the below link shows an academic survey on lightweighted cryptography used on IoT devices using key exchange and AES.
+   chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://pdfs.semanticscholar.org/cfe4/966fd2982a43c7ad0a77d5a393787f1a8b92.pdf?
