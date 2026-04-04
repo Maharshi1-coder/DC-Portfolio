@@ -71,3 +71,12 @@ This image is for showing wi-fi protection
    And the link below proves RSA being used for online implementation in cryptography.
    chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://people.csail.mit.edu/rivest/Rsapaper.pdf?
 
+
+ ## A6
+    The standards published by NIST shows that how disk encryption is used for protecting data using different algorithms.
+    chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-111.pdf
+
+    Another published of NIST shows that how protection using password and hashing is important to kepp data safe and how it is used.
+    https://pages.nist.gov/800-63-3/sp800-63b.html
+   
+
