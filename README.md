@@ -52,7 +52,7 @@ Alarms such as fire or any emergency at public place is shown in the picture bel
 </p>
 
 <p align="center">
-  <img src="Wi-Fiprotection.png" width="400">
+  <img src="Wi-Fiprotection(A3).png" width="400">
 </p>
 
 
