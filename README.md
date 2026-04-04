@@ -111,7 +111,7 @@ A Randomized Trial of the Accuracy of Novel Telehealth Instruments for the Asses
 
 Access control is like a lock which we can open in its respective way. The picture below shows one of such access control device.
 <p align="center">
-  <img src="Accesscontrol(A10).png" width="400">
+  <img src="Access control(A10).png" width="400">
 </p>
 
 
