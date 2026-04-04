@@ -27,8 +27,18 @@ This image is for proving the firewall protection<p align="center">
 
 
 ## A2
-   In public spaces the traffic monitoring and threat detection used has proven a great stability in the safety of public. It is proved that it was really essential as per the jounal from science direct published on October 2024 https://www.sciencedirect.com/org/science/article/pii/S1546221824007240?
-   
+  In public spaces the following picture shows how good it is to have security guards at public place as it maintains the security<p align="center">
+  <img src="Security guards(A2).png" width="400">
+</p>
+
+Surveillance cameras are implanted at public places for the safety and monitoring activities is showed by the photo below<p align="center">
+  <img src="Firewall.png" width="400">
+</p>
+
+Alarms such as fire or any emergency at public place is shown in the picture below<p align="center">
+  <img src="Alarms(A2).png" width="400">
+</p>
+
 
 
 
