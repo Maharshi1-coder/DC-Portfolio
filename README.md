@@ -141,3 +141,31 @@ Access control is like a lock which we can open in its respective way. The pictu
 <p align="center">
   <img src="Cardreader(A11).png" width="400">
 </p>
+
+
+## A12
+   Below are the images of five unique offline security tools.
+   **1**
+   <p align="center">
+  <img src="Laptop lockcable(A12).png" width="400">
+</p>
+
+   **2**
+<p align="center">
+  <img src="Personal safetyalarm(A12).png" width="400">
+</p>
+
+   **3**
+<p align="center">
+  <img src="CCTV(A12).png" width="400">
+</p>
+
+   **4**
+<p align="center">
+  <img src="Vault(A12).png" width="400">
+</p>
+
+   **5**
+<p align="center">
+  <img src="Encryptedusb(A12).png" width="400">
+</p>
