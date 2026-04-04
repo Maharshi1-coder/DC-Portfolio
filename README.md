@@ -43,19 +43,31 @@ Alarms such as fire or any emergency at public place is shown in the picture bel
 ## A3
    The photos of the security concepts used in my house is in the photos below
 
+This image is for Alarms at home
    <p align="center">
   <img src="Alarms(A3).png" width="400">
 </p>
 
+This image is for showing doorlock protection
 <p align="center">
   <img src="DoorLock(A3).png" width="400">
 </p>
 
+This image is for showing wi-fi protection
 <p align="center">
   <img src="Wi-Fiprotection(A3).png" width="400">
 </p>
 
 
 
+## A5
+   As per the statement from the journal published by IETF on August 2018, TLS is now successfully being implemented for online cryptography and encryption.
+   Below is the link for that journal.
+   https://datatracker.ietf.org/doc/html/rfc8446?
 
+   And as per the FIPS AES is now used for protecting data against malicious attacks and for security. Below is the link for that
+   https://www.scribd.com/document/487707139/NIST-FIPS-197-pdf?
+
+   And the link below proves RSA being used for online implementation in cryptography.
+   chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://people.csail.mit.edu/rivest/Rsapaper.pdf?
 
