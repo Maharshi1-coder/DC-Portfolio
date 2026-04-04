@@ -78,5 +78,11 @@ This image is for showing wi-fi protection
 
     Another published of NIST shows that how protection using password and hashing is important to kepp data safe and how it is used.
     https://pages.nist.gov/800-63-3/sp800-63b.html
-   
 
+
+ ## A7
+      The handbook of applied cryptography of university of waterloo is a wonderful and excellent book showcasing and explaining how the cryptography is used in modern network which includes the use of symmetric and asymmetric encryption, TLS, key exchange functions, etc.. The link of the book is below.
+      https://cacr.uwaterloo.ca/hac/
+
+## A8
+   
