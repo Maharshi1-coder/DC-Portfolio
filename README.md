@@ -270,3 +270,16 @@ Access control is like a lock which we can open in its respective way. The pictu
   <p align="center">
   <img src="Family2(A24).png" width="400">
 </p>
+
+
+## A29
+   The image of pope Francis and how detection was made by deep ai image detector is in the below photos
+
+   <p align="center">
+  <img src="AIdetection1(A29).png" width="400">
+</p>
+
+
+ <p align="center">
+  <img src="AIdetection2(A29).png" width="400">
+</p>
