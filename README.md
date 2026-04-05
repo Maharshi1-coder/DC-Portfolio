@@ -187,7 +187,7 @@ Access control is like a lock which we can open in its respective way. The pictu
    https://www.securityweek.com/hundreds-of-fortigate-firewalls-hacked-in-ai-powered-attacks-aws/
 
 
-   ## A16
+## A16
       The UWA data breach can be explained by the abc news article which can be seen through the link below
       https://www.abc.net.au/news/2025-08-11/university-of-western-australia-uwa-suffers-major-data-breach/105636074
 
@@ -198,7 +198,7 @@ Access control is like a lock which we can open in its respective way. The pictu
       https://www.itnews.com.au/news/wa-local-gov-entity-lost-350000-in-phishing-attack-624680
 
 
-   ## A18
+## A18
       The first case about AirCanada can be found and heard about from the article of bbc news which can be visited by the link below.
 
       https://www.bbc.com/travel/article/20240222-air-canada-chatbot-misinformation-what-travellers-should-know
