@@ -259,3 +259,14 @@ Access control is like a lock which we can open in its respective way. The pictu
 
 [Copy of chat of injection attack](Injectionattack.docx)
 
+
+## A24
+   The pictures of the ppt type presentation and family gathering and explanation of the phishing tipic is below:
+
+   <p align="center">
+  <img src="Family1(A24).png" width="400">
+</p>
+
+  <p align="center">
+  <img src="Family2(A24).png" width="400">
+</p>
