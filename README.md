@@ -169,3 +169,43 @@ Access control is like a lock which we can open in its respective way. The pictu
 <p align="center">
   <img src="Encryptedusb(A12).png" width="400">
 </p>
+
+
+## A15
+   The discovery I made about european government hack from is form the blog officialy published from the permission of european government is here by  https://cert.europa.eu/blog/european-commission-cloud-breach-trivy-supply-chain
+
+   The following link shows the information about carecloud data hack
+   https://techcrunch.com/2026/03/31/carecloud-breach-hackers-accessed-patients-medical-records-ehr/
+
+   The following shows Syrian government hack
+   https://www.sadanews.ps/en/news/281396.html
+
+   Kaplan data breach info can be accessed by the following link
+   https://therecord.media/kaplan-data-breach-hack-notification
+
+   The Fortigate firewall hack can be explained by the following link
+   https://www.securityweek.com/hundreds-of-fortigate-firewalls-hacked-in-ai-powered-attacks-aws/
+
+
+   ## A16
+      The UWA data breach can be explained by the abc news article which can be seen through the link below
+      https://www.abc.net.au/news/2025-08-11/university-of-western-australia-uwa-suffers-major-data-breach/105636074
+
+      itnews stated in their article that wa government stated they were hacked and a theft of $71000 occured
+      https://www.itnews.com.au/news/poor-wa-gov-m365-security-led-to-71k-theft-and-childrens-data-breached-624118
+
+      itnews also states in their article that wa government stated a loss of $350000 in phishing attack.
+      https://www.itnews.com.au/news/wa-local-gov-entity-lost-350000-in-phishing-attack-624680
+
+
+   ## A18
+      The first case about AirCanada can be found and heard about from the article of bbc news which can be visited by the link below.
+
+      https://www.bbc.com/travel/article/20240222-air-canada-chatbot-misinformation-what-travellers-should-know
+
+      The second case of the new york based lawyer can be found on the article of the abc news through the following link.
+
+      https://www.abc.net.au/news/2023-06-24/us-lawyer-uses-chatgpt-to-research-case-with-embarrassing-result/102490068
+
+      
+      
