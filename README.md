@@ -288,6 +288,6 @@ Access control is like a lock which we can open in its respective way. The pictu
 ## A30
    Screenshot of the module completed is shown below
 
-    <p align="center">
+   <p align="center">
   <img src="Modulecompleted(A30).png" width="400">
 </p>
