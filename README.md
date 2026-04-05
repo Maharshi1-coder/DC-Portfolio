@@ -218,4 +218,19 @@ Access control is like a lock which we can open in its respective way. The pictu
 
 ## A20
 
-      
+      All the photos of our gathering are below including the website that we used for gathering the details.
+      https://en.wikipedia.org/wiki/Jonathan_James
+
+       <p align="center">
+  <img src="Friends1(A20).png" width="400">
+</p>
+
+
+  <p align="center">
+  <img src="Friends2(A20).png" width="400">
+</p>
+
+
+  <p align="center">
+  <img src="Friends3(A20).png" width="400">
+</p>
