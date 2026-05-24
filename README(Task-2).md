@@ -30,7 +30,8 @@ This is the second task of the portfolio for defensive cybersecurity unit
   <img src="image/Industryevent2(B9).png" width="400">
 </p>
 
- <p align="center">
+ 
+ Here in this picture the last second name is mine Maharshi Patel and student number 24747899<p align="center">
   <img src="image/Industryevent3(B9).png" width="400">
 </p>
 
