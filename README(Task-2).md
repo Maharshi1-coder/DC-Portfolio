@@ -230,4 +230,27 @@ This image is of Chatgpt<p align="center">
 This image is of Gemini<p align="center">
   <img src="image/Gemini(B29).png" width="400">
 </p>
-   
+
+
+
+## B30
+
+ The image below is created using AI
+ <p align="center">
+  <img src="image/AI image watermark_check(B30).png" width="400">
+</p>
+
+The below image is then applied watermark
+<p align="center">
+  <img src="image/AI image watermark applied(B30).png" width="400">
+</p>
+
+The below is the image after editing
+<p align="center">
+  <img src="image/AI image watermark edited(B30).png" width="400">
+</p>
+
+The image below shows the check of watermark after editing the image through invisible watermark detector of photos
+<p align="center">
+  <img src="image/Watermark1(B30).png" width="400">
+</p>
