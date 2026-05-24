@@ -169,3 +169,12 @@ This is implemented in a controlled environment and belwo are the screenshots of
 
 Above vulnerabilities and issues were found and all this task was permored in a different repository whose link is:  https://github.com/Maharshi1-coder/state-of-the-art-solutions.git 
 
+
+
+## B22
+   The proof is shown through the video which can be accessed through the link below
+
+   [Video of using two email interchangeably which clearly shows a stance of impersonification](Enhance_website.mp4)
+
+   This can be solved and the security of the website can be improved through and forth.
+   
