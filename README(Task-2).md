@@ -177,4 +177,16 @@ Above vulnerabilities and issues were found and all this task was permored in a 
    [Video of using two email interchangeably which clearly shows a stance of impersonification](Enhance_website(B22).mp4)
 
    This can be solved and the security of the website can be improved through and forth.
-   
+
+
+
+## B23
+   The use of Wazuh as an IDS is seemed to be of great help especially for a beginners company when they cant afford expensive IDS. 
+
+   <p align="center">
+  <img src="image/IDS1(B23).png" width="400">
+</p>
+
+<p align="center">
+  <img src="image/IDS2(B23).png" width="400">
+</p>
