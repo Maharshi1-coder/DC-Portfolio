@@ -1,6 +1,20 @@
 # DC-Portfolio (Task-2)
 This is the second task of the portfolio for defensive cybersecurity unit
 
+## B5
+   The below image is of a cybersecurity talk held in UWA in week 12 and the topic covered was how AI is used in creating defense in cyersecurity.
+
+   <p align="center">
+  <img src="image/Talks1(B5).png" width="400">
+</p>
+
+<p align="center">
+  <img src="image/Talks2(B5).png" width="400">
+</p>
+
+
+The image below is of a seminar related to 
+
 ## B7
    The images below shows that screenshots of the activities that I took part in of the club TryHackMe. 
 
