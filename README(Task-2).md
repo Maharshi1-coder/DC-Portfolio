@@ -203,3 +203,12 @@ Above vulnerabilities and issues were found and all this task was permored in a 
  <p align="center">
   <img src="image/ACL1(B24).png" width="400">
 </p>
+
+
+
+## B26
+   The image of me explaining the topic to my friend is as below. This was done in the Law library ground floor at the left side sofa near entrance.
+
+   <p align="center">
+  <img src="image/Friend_explain(B26).png" width="400">
+</p>
