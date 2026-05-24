@@ -21,3 +21,28 @@ And this image shows how it produces a male image only and not female when asked
 Now to show the language bias when using generative AI I would use this research paper
 https://dl.acm.org/doi/epdf/10.1145/3442188.3445922
 
+
+
+## B13
+
+  To perform a jailbreak attack I used chatgpt and below are the images as evidence of jailbreak attack performed.
+  
+<p align="center">
+  <img src="image/Jailbreak1(B13).png" width="400">
+</p>
+
+<p align="center">
+  <img src="image/Jailbreak2(B13).png" width="400">
+</p>
+
+<p align="center">
+  <img src="image/Jailbreak3(B13).png" width="400">
+</p>
+
+<p align="center">
+  <img src="image/Jailbreak4(B13).png" width="400">
+</p>
+
+<p align="center">
+  <img src="image/Jailbreak5(B13).png" width="400">
+</p>
