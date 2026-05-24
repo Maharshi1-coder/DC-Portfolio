@@ -212,3 +212,22 @@ Above vulnerabilities and issues were found and all this task was permored in a 
    <p align="center">
   <img src="image/Friend_explain(B26).png" width="400">
 </p>
+
+
+
+## B29
+   The image below shows all three different generative AI used for fixing the CVE 2026-23890-pnpm path traversal
+
+
+ This image is of Copilot<p align="center">
+  <img src="image/Copilot(B29).png" width="400">
+</p>
+
+This image is of Chatgpt<p align="center">
+  <img src="image/Chatgpt(B29).png" width="400">
+</p>
+
+This image is of Gemini<p align="center">
+  <img src="image/Gemini(B29).png" width="400">
+</p>
+   
