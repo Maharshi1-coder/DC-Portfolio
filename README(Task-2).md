@@ -13,7 +13,28 @@ This is the second task of the portfolio for defensive cybersecurity unit
 </p>
 
 
-The image below is of a seminar related to 
+The image below is of a seminar related to explaining how virus works in code and how to defend using cybersecurity.
+
+<p align="center">
+  <img src="image/Talks3(B5).png" width="400">
+</p>
+
+
+
+## B6
+
+The image of the seminar of ethics is given below
+
+<p align="center">
+  <img src="image/Ethics(B6).png" width="400">
+</p>
+
+And this image below shows the seminar of laws of cybersecurity 
+
+<p align="center">
+  <img src="image/Laws(B6).png" width="400">
+</p>
+
 
 ## B7
    The images below shows that screenshots of the activities that I took part in of the club TryHackMe. 
