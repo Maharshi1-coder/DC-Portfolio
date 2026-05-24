@@ -143,3 +143,29 @@ chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://nvlpubs.nist.gov/nis
 The link below to IBM explains clearly about AI-Assisted security operations and the real world example to it is Microsoft's security copilot
 https://www.ibm.com/think/topics  is for IBM
 and http://microsoft.com/en-us/security/business/ai-machine-learning/microsoft-security-copilot? is for Microsoft's security copilot.
+
+
+
+## B17
+This is implemented in a controlled environment and belwo are the screenshots of the vulnerabilities found.
+
+<p align="center">
+  <img src="image/Implementation1(B17).png" width="400">
+</p>
+
+<p align="center">
+  <img src="image/Implementation2(B17).png" width="400">
+</p>
+
+<p align="center">
+  <img src="image/Implementation3(B17).png" width="400">
+</p>
+
+<p align="center">
+  <img src="image/Implementation4(B17).png" width="400">
+</p>
+
+
+
+Above vulnerabilities and issues were found and all this task was permored in a different repository whose link is:  https://github.com/Maharshi1-coder/state-of-the-art-solutions.git 
+
