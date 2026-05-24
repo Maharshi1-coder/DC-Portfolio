@@ -197,9 +197,9 @@ Above vulnerabilities and issues were found and all this task was permored in a 
    The images below shows the code in kali Linux implementing ACL by creating two dummy employess and a dummy company.
 
    <p align="center">
-  <img src="image/ACl(B24).png" width="400">
+  <img src="image/ACL(B24).png" width="400">
 </p>
 
  <p align="center">
-  <img src="image/ACl1(B24).png" width="400">
+  <img src="image/ACL1(B24).png" width="400">
 </p>
