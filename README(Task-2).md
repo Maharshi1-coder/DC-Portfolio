@@ -190,3 +190,16 @@ Above vulnerabilities and issues were found and all this task was permored in a 
 <p align="center">
   <img src="image/IDS2(B23).png" width="400">
 </p>
+
+
+
+## B24
+   The images below shows the code in kali Linux implementing ACL by creating two dummy employess and a dummy company.
+
+   <p align="center">
+  <img src="image/ACl(B24).png" width="400">
+</p>
+
+ <p align="center">
+  <img src="image/ACl1(B24).png" width="400">
+</p>
