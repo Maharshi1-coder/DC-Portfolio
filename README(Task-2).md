@@ -62,3 +62,13 @@ The image below is showing me teaching my sister-in-laws mother about social eng
 <p align="center">
   <img src="image/Elderly(B15).png" width="400">
 </p>
+
+
+
+## B16
+The link below is of the pdf which shows how important zero trust architecture is and how tremendously it is being used in the present.
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf?
+
+The link below to IBM explains clearly about AI-Assisted security operations and the real world example to it is Microsoft's security copilot
+https://www.ibm.com/think/topics  is for IBM
+and http://microsoft.com/en-us/security/business/ai-machine-learning/microsoft-security-copilot? is for Microsoft's security copilot.
