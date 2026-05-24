@@ -35,6 +35,7 @@ This is the second task of the portfolio for defensive cybersecurity unit
 </p>
 
 
+
 ## B12
   To prove the two bias cases I implemented it personally in a generative AI and below are the screenshots of it.
   
