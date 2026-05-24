@@ -19,4 +19,5 @@ And this image shows how it produces a male image only and not female when asked
 
 
 Now to show the language bias when using generative AI I would use this research paper
-[Language bias AI](https://dl.acm.org/doi/epdf/10.1145/3442188.3445922)
+https://dl.acm.org/doi/epdf/10.1145/3442188.3445922
+
