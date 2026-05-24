@@ -18,6 +18,23 @@ This is the second task of the portfolio for defensive cybersecurity unit
 
 
 
+## B9
+
+   The images below are of the event and few slides of the topic.
+   
+   <p align="center">
+  <img src="image/Industryevent1(B9).png" width="400">
+</p>
+
+ <p align="center">
+  <img src="image/Industryevent2(B9).png" width="400">
+</p>
+
+ <p align="center">
+  <img src="image/Industryevent3(B9).png" width="400">
+</p>
+
+
 ## B12
   To prove the two bias cases I implemented it personally in a generative AI and below are the screenshots of it.
   
