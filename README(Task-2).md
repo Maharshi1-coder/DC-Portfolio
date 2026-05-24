@@ -46,3 +46,19 @@ https://dl.acm.org/doi/epdf/10.1145/3442188.3445922
 <p align="center">
   <img src="image/Jailbreak5(B13).png" width="400">
 </p>
+
+
+
+## B14
+The image below shows a part of the discussion between me and my friends when I was teaching them Threat modeling.
+<p align="center">
+  <img src="image/Friends(B14).png" width="400">
+</p>
+
+
+
+## B15
+The image below is showing me teaching my sister-in-laws mother about social engineering.
+<p align="center">
+  <img src="image/Elderly(B15).png" width="400">
+</p>
