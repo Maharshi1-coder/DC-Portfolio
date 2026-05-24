@@ -172,7 +172,7 @@ Above vulnerabilities and issues were found and all this task was permored in a 
 
 
 ## B22
-   The proof is shown through the video which can be accessed through the link below
+   The proof is shown through the video which can be accessed through the link below ***and while opening if it says it cannot be opened due to its big size then it can easily be downloaded raw.***
 
    [Video of using two email interchangeably which clearly shows a stance of impersonification](Enhance_website(B22).mp4)
 
