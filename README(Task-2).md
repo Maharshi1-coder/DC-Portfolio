@@ -1,6 +1,23 @@
 # DC-Portfolio (Task-2)
 This is the second task of the portfolio for defensive cybersecurity unit
 
+## B7
+   The images below shows that screenshots of the activities that I took part in of the club TryHackMe. 
+
+   <p align="center">
+  <img src="image/Clubactivity1(B7).png" width="400">
+</p>
+
+ <p align="center">
+  <img src="image/Clubactivity2(B7).png" width="400">
+</p>
+
+ <p align="center">
+  <img src="image/Clubactivity3(B7).png" width="400">
+</p>
+
+
+
 ## B12
   To prove the two bias cases I implemented it personally in a generative AI and below are the screenshots of it.
   
